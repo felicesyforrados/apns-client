@@ -1,4 +1,4 @@
-apns-client.
+apns-client.(backed)
 ====================================
 Python client for `Apple Push Notification service (APNs) <https://developer.apple.com/library/mac/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Chapters/ApplePushService.html>`_.
 Check `documentation <http://apns-client.readthedocs.org>`_ to learn how to use it.
